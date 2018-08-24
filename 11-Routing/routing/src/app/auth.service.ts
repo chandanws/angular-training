@@ -8,7 +8,6 @@ export class AuthService {
         setTimeout(() => {
           resolve(this.loggedIn);
         }, 800);
-
         // resolve(this.loggedIn);
       }
     );
