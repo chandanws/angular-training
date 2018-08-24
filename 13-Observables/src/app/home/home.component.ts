@@ -2,6 +2,7 @@ import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Observable } from 'rxjs/Observable';
 // tslint:disable-next-line:import-blacklist
 import 'rxjs/Rx';
+// tslint:disable-next-line:import-blacklist
 import { Observer, Subscription } from 'rxjs/Rx';
 
 @Component({
